@@ -1,1 +1,3 @@
 second commit
+Add feature 2
+A bit more feature 2
