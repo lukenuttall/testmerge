@@ -1,1 +1,1 @@
-This is a test file to check merging. Release edit
+This is a test file to check hotfixes & merging. Release edit
